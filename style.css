@@ -1,5 +1,6 @@
 body {
     background-color : rgb(52, 45, 45);
-    background-image : linear-gradient(rgb(52, 45, 45), rgb(132, 6, 6))
+    background-repeat: no-repeat, repeat;
+    background-image : linear-gradient(rgb(52, 45, 45), rgb(113, 66, 66))
 }
 
